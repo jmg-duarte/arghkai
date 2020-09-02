@@ -1,0 +1,41 @@
+{
+    "name": "arghkai",
+    "displayName": "Arghkai",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arghkai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arghkai-color-theme.json"
+            },
+            {
+                "label": "Arghkai (Filter Machine)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arghkai-filter-machine-color-theme.json"
+            },
+            {
+                "label": "Arghkai (Filter Octagon)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arghkai-filter-octagon-color-theme.json"
+            },
+            {
+                "label": "Arghkai (Filter Ristretto)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arghkai-filter-ristretto-color-theme.json"
+            },
+            {
+                "label": "Arghkai (Filter Spectrum)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arghkai-filter-spectrum-color-theme.json"
+            }
+        ]
+    }
+}
