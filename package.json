@@ -13,29 +13,29 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Arghkai",
+				"label": "Arghkai Pro",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Arghkai.json"
+				"path": "./themes/Arghkai Pro.json"
 			},
 			{
-				"label": "Arghkai (Filter Octagon)",
+				"label": "Arghkai Pro (Filter Octagon)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Arghkai (Filter Octagon).json"
+				"path": "./themes/Arghkai Pro (Filter Octagon).json"
 			},
 			{
-				"label": "Arghkai (Filter Ristretto)",
+				"label": "Arghkai Pro (Filter Ristretto)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Arghkai (Filter Ristretto).json"
+				"path": "./themes/Arghkai Pro (Filter Ristretto).json"
 			},
 			{
-				"label": "Arghkai (Filter Spectrum)",
+				"label": "Arghkai Pro (Filter Spectrum)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Arghkai (Filter Spectrum).json"
+				"path": "./themes/Arghkai Pro (Filter Spectrum).json"
 			},
 			{
-				"label": "Arghkai (Filter Machine)",
+				"label": "Arghkai Pro (Filter Machine)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Arghkai (Filter Machine).json"
+				"path": "./themes/Arghkai Pro (Filter Machine).json"
 			},
 			{
 				"label": "Arghkai Classic",
@@ -45,54 +45,54 @@
 		],
 		"iconThemes": [
 			{
-				"label": "Arghkai Icons",
-				"id": "Arghkai Icons",
-				"path": "./icon-themes/Arghkai icon-theme.json"
+				"label": "Arghkai Pro Icons",
+				"id": "Arghkai Pro Icons",
+				"path": "./icon-themes/Arghkai Pro icon-theme.json"
 			},
 			{
-				"label": "Arghkai Monochrome Icons",
-				"id": "Arghkai Monochrome Icons",
-				"path": "./icon-themes/Arghkai monochrome icon-theme.json"
+				"label": "Arghkai Pro Monochrome Icons",
+				"id": "Arghkai Pro Monochrome Icons",
+				"path": "./icon-themes/Arghkai Pro monochrome icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Octagon) Icons",
-				"id": "Arghkai (Filter Octagon) Icons",
-				"path": "./icon-themes/Arghkai (Filter Octagon) icon-theme.json"
+				"label": "Arghkai Pro (Filter Octagon) Icons",
+				"id": "Arghkai Pro (Filter Octagon) Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Octagon) icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Octagon) Monochrome Icons",
-				"id": "Arghkai (Filter Octagon) Monochrome Icons",
-				"path": "./icon-themes/Arghkai (Filter Octagon) monochrome icon-theme.json"
+				"label": "Arghkai Pro (Filter Octagon) Monochrome Icons",
+				"id": "Arghkai Pro (Filter Octagon) Monochrome Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Octagon) monochrome icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Ristretto) Icons",
-				"id": "Arghkai (Filter Ristretto) Icons",
-				"path": "./icon-themes/Arghkai (Filter Ristretto) icon-theme.json"
+				"label": "Arghkai Pro (Filter Ristretto) Icons",
+				"id": "Arghkai Pro (Filter Ristretto) Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Ristretto) icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Ristretto) Monochrome Icons",
-				"id": "Arghkai (Filter Ristretto) Monochrome Icons",
-				"path": "./icon-themes/Arghkai (Filter Ristretto) monochrome icon-theme.json"
+				"label": "Arghkai Pro (Filter Ristretto) Monochrome Icons",
+				"id": "Arghkai Pro (Filter Ristretto) Monochrome Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Ristretto) monochrome icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Spectrum) Icons",
-				"id": "Arghkai (Filter Spectrum) Icons",
-				"path": "./icon-themes/Arghkai (Filter Spectrum) icon-theme.json"
+				"label": "Arghkai Pro (Filter Spectrum) Icons",
+				"id": "Arghkai Pro (Filter Spectrum) Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Spectrum) icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Spectrum) Monochrome Icons",
-				"id": "Arghkai (Filter Spectrum) Monochrome Icons",
-				"path": "./icon-themes/Arghkai (Filter Spectrum) monochrome icon-theme.json"
+				"label": "Arghkai Pro (Filter Spectrum) Monochrome Icons",
+				"id": "Arghkai Pro (Filter Spectrum) Monochrome Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Spectrum) monochrome icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Machine) Icons",
-				"id": "Arghkai (Filter Machine) Icons",
-				"path": "./icon-themes/Arghkai (Filter Machine) icon-theme.json"
+				"label": "Arghkai Pro (Filter Machine) Icons",
+				"id": "Arghkai Pro (Filter Machine) Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Machine) icon-theme.json"
 			},
 			{
-				"label": "Arghkai (Filter Machine) Monochrome Icons",
-				"id": "Arghkai (Filter Machine) Monochrome Icons",
-				"path": "./icon-themes/Arghkai (Filter Machine) monochrome icon-theme.json"
+				"label": "Arghkai Pro (Filter Machine) Monochrome Icons",
+				"id": "Arghkai Pro (Filter Machine) Monochrome Icons",
+				"path": "./icon-themes/Arghkai Pro (Filter Machine) monochrome icon-theme.json"
 			},
 			{
 				"label": "Arghkai Classic Icons",
@@ -132,7 +132,6 @@
 		"icons",
 		"syntax highlighting"
 	],
-	"main": "./js/main",
 	"qna": false,
 	"scripts": {
 		"postinstall": "node ./node_modules/vscode/bin/install"
